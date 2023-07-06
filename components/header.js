@@ -96,7 +96,7 @@ function Initiatives() {
             <button className="button__primary-outline">learn more</button>
           </div>
           <div className="content__program">
-            <h3 className="heading-3">children's day code party</h3>
+            <h3 className="heading-3">childrens day code party</h3>
             <p>
               We believe that every child has in him/her all it takes to be the
               next creator or innovator and we are on a mission to help each
